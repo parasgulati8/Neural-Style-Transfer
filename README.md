@@ -6,7 +6,7 @@ This project is an implementation of NST algorithm that generates artistic image
 
 Neural Style Transfer (NST) is one of the most fun techniques in deep learning. As seen below, it merges two images, namely, a "content" image (C) and a "style" image (S), to create a "generated" image (G). The generated image G combines the "content" of the image C with the "style" of image S. 
 
-![Monet](https://github.com/parasgulati8/Convolution-Neural-Network/blob/master/Neural%20Style%20Transfer/images/perspolis_vangogh.png)
+![Monet](https://github.com/parasgulati8/Neural-Style-Transfer/blob/master/images/perspolis_vangogh.png)
 
 ## 2 - Transfer Learning
 
@@ -44,10 +44,10 @@ Here's what the program will have to do:
 Here are few other examples:
 
 - The beautiful ruins of the ancient city of Persepolis (Iran) with the style of Van Gogh (The Starry Night)
-![](https://github.com/parasgulati8/Convolution-Neural-Network/blob/master/Neural%20Style%20Transfer/images/louvre_generated.png)
+![](https://github.com/parasgulati8/Neural-Style-Transfer/blob/master/images/louvre_generated.png)
 
 - The tomb of Cyrus the great in Pasargadae with the style of a Ceramic Kashi from Ispahan.
-![](https://github.com/parasgulati8/Convolution-Neural-Network/blob/master/Neural%20Style%20Transfer/images/pasargad_kashi.png)
+![](https://github.com/parasgulati8/Neural-Style-Transfer/blob/master/images/pasargad_kashi.png)
 
 - A scientific study of a turbulent fluid with the style of a abstract blue fluid painting.
-![](https://github.com/parasgulati8/Convolution-Neural-Network/blob/master/Neural%20Style%20Transfer/images/circle_abstract.png)
+![](https://github.com/parasgulati8/Neural-Style-Transfer/blob/master/images/circle_abstract.png)
