@@ -16,16 +16,16 @@ Following the original NST paper (https://arxiv.org/abs/1508.06576), we used the
 
 ## 3 - Neural Style Transfer 
 
-We will build the NST algorithm in three steps:
+NST algorithm is build in three steps:
 
 - Build the content cost function ![](https://render.githubusercontent.com/render/math?math=J_%7Bcontent%7D%28C%2CG%29&mode=inline)
 - Build the style cost function ![](https://render.githubusercontent.com/render/math?math=J_%7Bstyle%7D%28S%2CG%29&mode=inline)
 - Put it together to get ![](https://render.githubusercontent.com/render/math?math=J%28G%29%20%3D%20%5Calpha%20J_%7Bcontent%7D%28C%2CG%29%20%2B%20%5Cbeta%20J_%7Bstyle%7D%28S%2CG%29&mode=inline)
 
 ## 4 - Solving the optimization problem
-Finally, let's put everything together to implement Neural Style Transfer!
+Putting everything together to implement Neural Style Transfer!
 
-Here's what the program will have to do:
+Here's what the program follows:
 
 1. Create an Interactive Session
 2. Load the content image 
